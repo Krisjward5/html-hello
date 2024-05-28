@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(225, 223, 220);
+}
+.container {
+    background-color: white;
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.header {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+.post-header {
+    display: flex;
+}
+.date {
+    display: flex;
+    margin-block: 21px;
+    margin-left: auto;
+    color: grey;
+}
